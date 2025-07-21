@@ -22,11 +22,10 @@ Where:
 
 ## 📦 What's Inside
 
-inear_regression/
-├── init.py # Makes this a package
-├── linear_regression.py # The core model code
-├── example.ipynb # Full training + plotting walkthrough
-└── README.md # You're reading it!
+- init.py
+- linear_regression.py
+- example.ipynb
+- README.md
 
 ---
 
@@ -46,23 +45,20 @@ model.train(X, y)
 # Predict price for a 1800 sq ft home
 prediction = model.predict([[1800]])
 print(prediction)  # → [[360000]] (approx)
+```
 
-📊 Evaluation
+## 📊 Evaluation
 You can evaluate model accuracy using:
 
-Mean Squared Error (MSE): Measures average squared difference between actual and predicted values.
-
-R² Score: Tells how well the data fits the model (1.0 is perfect).
+- Mean Squared Error (MSE): Measures average squared difference between actual and predicted values.
+- R² Score: Tells how well the data fits the model (1.0 is perfect).
 
 These metrics are demonstrated in the example.ipynb notebook with plots.
 
-📚 Dependencies
+## 📚 Dependencies
 Only uses:
 
-numpy
-
-pandas
-
-matplotlib
-
-scikit-learn
+- numpy
+- pandas
+- matplotlib
+- scikit-learn

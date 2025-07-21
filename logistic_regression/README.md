@@ -21,14 +21,10 @@ Where:
 
 ## 📦 What's Inside
 
-logistic_regression/
-├── init.py
-├── logistic_regression.py # LogisticRegressionModel class
-├── example.ipynb # Train + visualize with breast cancer dataset
-└── README.md
-
-yaml
-Copy code
+- init.py
+- logistic_regression.py
+- example.ipynb
+- README.md
 
 ---
 
@@ -47,22 +43,17 @@ model.train(X, y)
 
 prediction = model.predict([[3, 2]])
 print(prediction)  # → [0] or [1]
-📊 Evaluation Metrics
+```
+
+## 📊 Evaluation Metrics
 You can use:
+- Accuracy
+- Confusion Matrix
+- Classification Report (Precision, Recall, F1-score)
+- Visualized in the included notebook!
 
-Accuracy
-
-Confusion Matrix
-
-Classification Report (Precision, Recall, F1-score)
-
-Visualized in the included notebook!
-
-📚 Dependencies
-numpy
-
-pandas
-
-matplotlib
-
-scikit-learn
+ ## 📚 Dependencies
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
