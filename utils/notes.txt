@@ -1,5 +1,3 @@
-🌳 decision_tree
-
 📈 kmeans
 
 🌄 hierarchical_clustering
