@@ -1,5 +1,3 @@
-🧠 naive_bayes
-
 🌳 decision_tree
 
 📈 kmeans
@@ -58,9 +56,6 @@ For clustering/dimensionality reduction:
 
 🧰 utils
 
-⚡ Productivity Tip: Master one from each category at a time. For instance, do logistic_regression, then pca, then neural_networks.
-
-Would you like a cheat sheet for these?
 
 I am creating a repo that will hold all of the ml algortihms for any one to use as a package. 
 
