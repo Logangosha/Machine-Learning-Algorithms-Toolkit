@@ -1,12 +1,3 @@
-Start Here – Core Foundations
-These are must-know, easy-to-implement classics:
-
-🧮 linear_regression
-
-🧮 logistic_regression
-
-🧠 knn
-
 🧠 naive_bayes
 
 🌳 decision_tree

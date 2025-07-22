@@ -39,7 +39,7 @@ model.train(X, y)
 # Predict new point's class
 print(model.predict([[3, 3]]))  # → likely class 0
 ```
-📊 What's Visualized?
+## 📊 What's Visualized?
 In example.ipynb, we:
 
 - Generate 2D clustered data for 2 classes
@@ -47,12 +47,12 @@ In example.ipynb, we:
 - Plot new points and their predicted class
 - Show how changing the position changes the prediction
 
-📚 Dependencies
+## 📚 Dependencies
 - numpy
 - matplotlib
 - scikit-learn
 
-🔧 Tips for Playing
+## 🔧 Tips for Playing
 Try changing:
 
 - The number of samples
