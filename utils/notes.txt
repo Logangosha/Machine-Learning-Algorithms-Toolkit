@@ -1,7 +1,3 @@
-📈 kmeans
-
-🌄 hierarchical_clustering
-
 🟡 Intermediate – Add Depth & Power
 These add generalization, ensemble, and dimension handling:
 
