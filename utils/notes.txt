@@ -1,5 +1,3 @@
-🔍 svm
-
 🧩 dbscan
 
 🧬 random_forest
