@@ -8,7 +8,8 @@ setup(
         "scikit-learn",
         "numpy",
         "matplotlib",
-        "pandas"
+        "pandas",
+        "xgboost",
     ],
     author="Logan Gauchat",
     description="Collection of ML algorithms in Python",
